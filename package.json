@@ -1,0 +1,20 @@
+{
+  "name": "blog-post-challange",
+  "version": "1.0.0",
+  "description": "This is blog post page using EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Nilesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.1"
+  }
+}
